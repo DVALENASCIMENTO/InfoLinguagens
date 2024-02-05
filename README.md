@@ -1,4 +1,5 @@
 InfoLinguagens: Explorando o Mundo das Linguagens de Programação
+
 Bem-vindo ao InfoLinguagens, um projeto interativo que oferece uma jornada educativa no vasto universo das linguagens de programação. Este projeto utiliza conceitos de Programação Orientada a Objetos (POO) para representar e explorar informações detalhadas sobre diversas linguagens de programação.
 
 Estrutura do Projeto
@@ -14,14 +15,10 @@ Requisitos:
 Certifique-se de ter Python instalado em seu sistema.
 Clone o Repositório:
 
-bash
-Copy code
 git clone https://github.com/seu-usuario/infolinguagens.git
 cd infolinguagens
 Execute o Projeto:
 
-bash
-Copy code
 python main.py
 Interaja com a Interface:
 
